@@ -1,5 +1,5 @@
 function Home(){
-  return <div>Roi né</div>
+  return <div>Oi né</div>
 }
 
 export default Home
